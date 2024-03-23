@@ -64,7 +64,7 @@ const Dashboard = () => {
                 <div>
                     {listData?.map(el => {
                         return (
-                            <div className='checkbox'>
+                            <div key={el?.title} className='checkbox'>
                                 <Image src={`/assets/${el?.checkbox ? 'checkbox' : 'checkbox-disable'}.svg`} width={24} height={24} alt='pagination' />
                                 {el?.title}
                             </div>
