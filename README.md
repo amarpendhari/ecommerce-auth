@@ -1,4 +1,4 @@
-#Ecommerce Auth
+# Ecommerce Auth
 [A demo is worth a thousand words](https://ecommerce-auth.netlify.app/auth/login)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
